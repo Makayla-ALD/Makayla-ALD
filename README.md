@@ -4,7 +4,7 @@
 
 💻I’m primarily experienced with the language C# and Unreal Engine’s visual blueprinting. 
 
-💻I’m currently learning C++, HTML, and CSS
+💻I’m currently learning HTML, CSS, and Javascript
 
 📚I am a University of Central Florida graduate with a Bachelors in Digital Media: Game Design 
 
